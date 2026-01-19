@@ -1,0 +1,8 @@
+# Ignorar la carpeta de dependencias de Node.js
+node_modules/
+
+# También es una buena práctica ignorar otros archivos comunes en Node.js, como:
+.env           # Archivos de variables de entorno
+npm-debug.log* # Archivos de registro de depuración
+.cache/        # Cachés generadas por herramientas de desarrollo
+.vscode/       # Configuraciones locales de VS Code
